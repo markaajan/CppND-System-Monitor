@@ -3,7 +3,6 @@
 #include <sstream>
 #include <string>
 #include <vector>
-
 #include "process.h"
 
 using std::string;
