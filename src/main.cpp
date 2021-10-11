@@ -3,5 +3,6 @@
 
 int main() {
   System system;
+  system.opt.setChoice();
   NCursesDisplay::Display(system);
-}
+} 
